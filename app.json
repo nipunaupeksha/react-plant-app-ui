@@ -1,0 +1,12 @@
+{
+  "name": "plant-ui",
+  "displayName": "plant-ui",
+  "expo": {
+    "name": "plant-ui",
+    "slug": "plant-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
